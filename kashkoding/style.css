@@ -1281,7 +1281,10 @@ display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
 }
-
+.service-wrp-inner img{
+    width: 130px;
+    height: 50px;
+}
 .service-wrp .heading{
     color:#140d48;
     padding:1rem;
